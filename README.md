@@ -2,7 +2,7 @@
 ## Instalasi
 1. Clone repository
 ``` bash
-git clone https://github.com/fahrikurniawan99/mcm-be
+git clone https://github.com/fahrikurniawan99/mcm-be.git
 ```
 2. Install dependencies
 ``` bash
